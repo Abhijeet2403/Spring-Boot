@@ -1,0 +1,4 @@
+com\example\controller\StudentController.class
+com\example\domain\Student.class
+com\example\SpringbootDemoApplication.class
+com\example\repository\StudentRepository.class
